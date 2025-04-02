@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/ifmaker/etas_inc
+/ifmaker/kvaser_inc
+ifmaker/vxlapi.h
